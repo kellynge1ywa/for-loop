@@ -1,0 +1,14 @@
+D:\learning\C#\visual studio\For_loop\bin\Debug\net6.0\For_loop.exe
+D:\learning\C#\visual studio\For_loop\bin\Debug\net6.0\For_loop.deps.json
+D:\learning\C#\visual studio\For_loop\bin\Debug\net6.0\For_loop.runtimeconfig.json
+D:\learning\C#\visual studio\For_loop\bin\Debug\net6.0\For_loop.dll
+D:\learning\C#\visual studio\For_loop\bin\Debug\net6.0\For_loop.pdb
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.AssemblyInfoInputs.cache
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.AssemblyInfo.cs
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.csproj.CoreCompileInputs.cache
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.dll
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\refint\For_loop.dll
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.pdb
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\For_loop.genruntimeconfig.cache
+D:\learning\C#\visual studio\For_loop\obj\Debug\net6.0\ref\For_loop.dll
