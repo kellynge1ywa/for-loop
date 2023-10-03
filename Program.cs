@@ -4,37 +4,31 @@
     {
         static void Main(string[] args)
         {
-            int result = GetPow(3, 4);
-            Console.WriteLine(result);
-            for (int i=0; i <=4; i+=2)
+            try
             {
-                for (int j=0; j <=4; j+=2)
-                    for(int k=0; k <= 4; k+=2)
-                    {
-                        Console.WriteLine($"{i},{j},{k}");
+                Console.Write("Enter first number: ");
+                int num1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter the second number: ");
+                int num2 = Convert.ToInt32(Console.ReadLine());
 
-                    }
-                
+                Console.WriteLine(num1 / num2);
             }
 
-            string[] fruits = { "Mangoes","Apples","Citrus","Avocado","Grapes","Passion" };
-
-            for (int fruit=0; fruit < fruits.Length; fruit++)
+            catch (DivideByZeroException ex)
             {
-                Console.WriteLine(fruits[fruit]);
+                Console.WriteLine(ex.Message);
+               
             }
+            catch (FormatException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+
+
+
         }
 
-        static int GetPow(int baseNum, int powNum)
-        {
-            int value = 1;
-
-            for( int i=0; i <powNum; i++)
-            {
-                value = value * baseNum;
-            }
-
-            return value;
-        }
+       
     }
 }
